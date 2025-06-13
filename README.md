@@ -46,5 +46,4 @@
 ---
 
 ## 🏆 **Mi Estatus en GitHub**
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebaSalasLvd&show_icons=true&theme=tokyonight&hide_border=true)
-![Mi Estatus](https://github-readme-stats.vercel.app/api?username=SebaSalasLvd&show_icons=true&theme=shades-of-purple&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebaSalasLvd&show_icons=true&theme=tokyonight&hide_title=true)
