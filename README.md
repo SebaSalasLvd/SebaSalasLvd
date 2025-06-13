@@ -1,5 +1,3 @@
-![Background](https://github.com/SebaSalasLvd/SebaSalasLvd/blob/main/background.jpg)
-
 ## 💻 **Lenguajes**
 
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
@@ -24,8 +22,12 @@
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
+[![Firebase](https://img.shields.io/badge/-Firebase-FFCB2D?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 
 ## ⚙️ **Desarrollo de Software**
+[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
@@ -46,7 +48,3 @@
 ## 🏆 **Mi Estatus en GitHub**
 ![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebaSalasLvd&show_icons=true&theme=tokyonight&hide_border=true)
 ![Mi Estatus](https://github-readme-stats.vercel.app/api?username=SebaSalasLvd&show_icons=true&theme=shades-of-purple&hide_border=true)
-
-### 📫 Get In Touch
-<a href="mailto:qle2@hawk.iit.edu"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
-&nbsp; &nbsp;
