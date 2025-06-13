@@ -32,6 +32,21 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/SebaSalasLvd/Front-End-Dev)](https://github.com/SebaSalasLvd/Front-End-Dev)  
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/SebaSalasLvd/Front-End-Dev)](https://github.com/SebaSalasLvd/Front-End-Dev)  
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/SebaSalasLvd/Front-End-Dev)](https://github.com/SebaSalasLvd/Front-End-Dev)
+**React**:  
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
+
+**Tailwind CSS**:  
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
+
+**Node.js**:  
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
+
+**C++**:  
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
+
+**Scala**:  
+[![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
+
 
 **SQL:**
 [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)  
@@ -68,12 +83,16 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 
+
+
 <sup>*click on some badges may redirect you to the corresponding repositories</sup>
 
 ---
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SebaSalasLvd&repo=vitral&theme=radical "E-Commerce Project")](https://github.com/SebaSalasLvd/vitral)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SebaSalasLvd&repo=proyecto-mineria&theme=highcontrast "Data Mining Project")](https://github.com/SebaSalasLvd/proyecto-mineria)
+
+
 
 <!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=SebaSalasLvd&show_icons=true&theme=tokyonight&hide_border=true)
