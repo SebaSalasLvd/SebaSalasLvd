@@ -1,6 +1,4 @@
-[![Universidad](https://github.com/SebaSalasLvd/SebaSalasLvd/blob/main/assets/dcc.svg?raw=true)](https://www.dcc.uchile.cl/)
-
-<img src="https://github.com/SebaSalasLvd/SebaSalasLvd/blob/main/assets/dcc.svg?raw=true" width="100" height="100" />
+<img src="https://github.com/SebaSalasLvd/SebaSalasLvd/blob/main/assets/dcc.svg?raw=true" width="400" height="300" />
 
 
 ## 💻 **Languages**
