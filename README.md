@@ -1,5 +1,8 @@
 [![Universidad](https://github.com/SebaSalasLvd/SebaSalasLvd/blob/main/assets/dcc.svg?raw=true)](https://www.dcc.uchile.cl/)
 
+<img src="https://github.com/SebaSalasLvd/SebaSalasLvd/blob/main/assets/dcc.svg?raw=true" width="100" height="100" />
+
+
 ## 💻 **Languages**
 
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
