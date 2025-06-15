@@ -1,4 +1,4 @@
-<img src="https://github.com/SebaSalasLvd/SebaSalasLvd/blob/main/assets/dcc.svg?raw=true" width="300" height="200" />
+<img src="https://github.com/SebaSalasLvd/SebaSalasLvd/blob/main/assets/dcc.svg?raw=true" width="200" height="100" />
 
 
 ## 💻 **Languages**
