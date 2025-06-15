@@ -4,18 +4,18 @@
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/SebaSalasLvd/Python-AWS-TradingAI)](https://github.com/SebaSalasLvd/Python-AWS-TradingAI)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)  
 
 ### **Web-App Tools**
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=Django&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 
-### **Used Python Libraries**
+### **Data Analysis / Python Projects**
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
