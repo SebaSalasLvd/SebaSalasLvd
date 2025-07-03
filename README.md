@@ -37,14 +37,8 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 
 ### **Version Control**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/SebaSalasLvd)](https://github.com/SebaSalasLvd)
 
----
-
-### 🚀 **Working on**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SebaSalasLvd&repo=vitral&theme=radical)](https://github.com/SebaSalasLvd/vitral)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SebaSalasLvd&repo=proyecto-mineria&theme=highcontrast)](https://github.com/SebaSalasLvd/proyecto-mineria)
