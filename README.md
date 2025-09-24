@@ -1,16 +1,16 @@
 <img src="https://github.com/SebaSalasLvd/SebaSalasLvd/blob/main/assets/dcc.svg?raw=true" width="200" height="100" />
 
-<h2 align="center">Hi, I'm Sebastián Salas</h2>
+<h2>Hi, I'm Sebastián Salas</h2>
 
 I'm a Computer Engineering student at the University of Chile and currently an independent professional at Lioren Enterprises.
 
 I'm looking for opportunities for my second professional internship. I'm passionate about fullstack development using modern frameworks, always with a focus on creating outstanding user experiences.
 
-<div style="display: flex; flex-direction: row;"> <span>Feel free to connect or collaborate if you're interested!</span>
+<div> <span>Feel free to connect or collaborate if you're interested!</span>
 <a href="https://www.linkedin.com/in/sebastianignaciosalaslavado" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastianignaciosalaslavado" height="30" width="40" style="px-3;"/></a> </div>
 
-<h3 align="center">Frameworks</h3>
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
+<h3>Frameworks</h3>
+<div>
   <a href="https://github.com/SebaSalasLvd/">
     <img src="https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel&link=https://github.com/SebaSalasLvd/Laravel" alt="Laravel"/>
   </a>
@@ -33,8 +33,8 @@ I'm looking for opportunities for my second professional internship. I'm passion
 
 
 
-<h3 align="center">Languages</h3>
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
+<h3>Languages</h3>
+<div>
   <a href="https://github.com/SebaSalasLvd">
     <img src="https://img.shields.io/badge/-Typescript-black?style=flat&logo=Typescript&link=https://github.com/SebaSalasLvd" alt="Typescript"/>
   </a>
@@ -55,8 +55,8 @@ I'm looking for opportunities for my second professional internship. I'm passion
   </a>
 </div>
 
-<h3 align="center">DevTools</h3>
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
+<h3>DevTools</h3>
+<div>
   <a href="https://github.com/SebaSalasLvd">
     <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Redux"/>
   </a>
@@ -71,8 +71,8 @@ I'm looking for opportunities for my second professional internship. I'm passion
   </a>
 </div>
 
-<h3 align="center">Data Libraries</h3>
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
+<h3>Data Libraries</h3>
+<div>
   <a href="https://github.com/SebaSalasLvd">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/SebaSalasLvd" alt="Pandas"/>
   </a>
@@ -93,8 +93,8 @@ I'm looking for opportunities for my second professional internship. I'm passion
   </a>
 </div>
 
-<h3 align="center">Data Bases</h3>
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
+<h3>Data Bases</h3>
+<div>
   <a href="https://github.com/SebaSalasLvd">
     <img src="https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/SebaSalasLvd" alt="SQL"/>
   </a>
@@ -109,8 +109,8 @@ I'm looking for opportunities for my second professional internship. I'm passion
   </a>
 </div>
 
-<h3 align="center">IDE</h3>
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
+<h3>IDE</h3>
+<div>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
   </a>
@@ -122,8 +122,8 @@ I'm looking for opportunities for my second professional internship. I'm passion
   </a>
 </div>
 
-<h3 align="center">Version Control</h3>
-<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
+<h3>Version Control</h3>
+<div>
   <a href="https://github.com/SebaSalasLvd">
     <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/SebaSalasLvd" alt="Git"/>
   </a>
