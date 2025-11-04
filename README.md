@@ -2,9 +2,9 @@
 
 <h2>Hi, I'm Sebastián Salas</h2>
 
-I'm a Computer Engineering student at the University of Chile and currently an independent professional at Lioren Enterprises.
+I'm a Computer Engineering student at the University of Chile and currently working as a freelancer developer at Lioren Enterprises.
 
-I'm looking for opportunities for my second professional internship. I'm passionate about fullstack development using modern frameworks, always with a focus on creating outstanding user experiences.
+I'm looking for opportunities for my second professional internship.
 
 <div> <span>Feel free to connect or collaborate if you're interested!</span>
 <a href="https://www.linkedin.com/in/sebastianignaciosalaslavado" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastianignaciosalaslavado" height="30" width="40" style="px-3;"/></a> </div>
@@ -13,9 +13,6 @@ I'm looking for opportunities for my second professional internship. I'm passion
 <div>
   <a href="https://github.com/SebaSalasLvd/">
     <img src="https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel&link=https://github.com/SebaSalasLvd/Laravel" alt="Laravel"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd/LiveWire">
-    <img src="https://img.shields.io/badge/-LiveWire-black?style=flat&logo=LiveWire&link=https://github.com/SebaSalasLvd/LiveWire" alt="LiveWire"/>
   </a>
   <a href="https://github.com/SebaSalasLvd">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/SebaSalasLvd" alt="React"/>
