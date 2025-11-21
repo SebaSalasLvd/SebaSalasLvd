@@ -4,38 +4,15 @@
 
 I'm a Computer Engineering student at the University of Chile and currently working as a freelancer developer at Lioren Enterprises.
 
-I'm looking for opportunities for my second professional internship.
-
-<div> <span>Feel free to connect or collaborate if you're interested!</span>
+<div> <span>Feel free to connect if you're interested!</span>
 <a href="https://www.linkedin.com/in/sebastianignaciosalaslavado" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastianignaciosalaslavado" height="30" width="40" style="px-3;"/></a> </div>
-
-<h3>Frameworks</h3>
-<div>
-  <a href="https://github.com/SebaSalasLvd/">
-    <img src="https://img.shields.io/badge/-Laravel-black?style=flat&logo=Laravel&link=https://github.com/SebaSalasLvd/Laravel" alt="Laravel"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/SebaSalasLvd" alt="React"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Node.js"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Flask"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Django-green?style=flat&logo=Django&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Django"/>
-  </a>
-</div>
-
-
 
 <h3>Languages</h3>
 <div>
   <a href="https://github.com/SebaSalasLvd">
     <img src="https://img.shields.io/badge/-Typescript-black?style=flat&logo=Typescript&link=https://github.com/SebaSalasLvd" alt="Typescript"/>
   </a>
-  <a href="https://github.com/SebaSalasLvd/Python">
+  <a href="https://github.com/SebaSalasLvd">
     <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/SebaSalasLvd/Python" alt="Python"/>
   </a>
   <a href="https://github.com/SebaSalasLvd">
