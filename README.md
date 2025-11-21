@@ -45,7 +45,7 @@ I'm a Computer Engineering student at the University of Chile and currently work
   </a>
 </div>
 
-<h3>Data Libraries</h3>
+<h3>Libraries i've worked with</h3>
 <div>
   <a href="https://github.com/SebaSalasLvd">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/SebaSalasLvd" alt="Pandas"/>
@@ -67,11 +67,8 @@ I'm a Computer Engineering student at the University of Chile and currently work
   </a>
 </div>
 
-<h3>Data Bases</h3>
+<h3>DB</h3>
 <div>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/SebaSalasLvd" alt="SQL"/>
-  </a>
   <a href="https://github.com/SebaSalasLvd">
     <img src="https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/SebaSalasLvd" alt="MySQL"/>
   </a>
@@ -80,19 +77,6 @@ I'm a Computer Engineering student at the University of Chile and currently work
   </a>
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-</div>
-
-<h3>IDE</h3>
-<div>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/SebaSalasLvd" alt="IntelliJ IDEA"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=Vim&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Vim"/>
   </a>
 </div>
 
