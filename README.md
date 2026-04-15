@@ -5,7 +5,6 @@
 I'm a Computer Engineering student at the University of Chile and currently working as a freelancer developer at Lioren Enterprises.
 
 <div> <span>Feel free to connect if you're interested!</span>
-<a href="https://www.linkedin.com/in/sebastianignaciosalaslavado" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastianignaciosalaslavado" height="30" width="40" style="px-3;"/></a> </div>
 
 <h3>Languages</h3>
 <div>
