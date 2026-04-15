@@ -29,44 +29,6 @@ I'm a Computer Engineering student at the University of Chile and currently work
   </a>
 </div>
 
-<h3>DevTools</h3>
-<div>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Redux"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/SebaSalasLvd" alt="Bootstrap"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Docker"/>
-  </a>
-</div>
-
-<h3>Libraries i've worked with</h3>
-<div>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/SebaSalasLvd" alt="Pandas"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Numpy"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Scipy"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Matplotlib"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white&link=https://github.com/SebaSalasLvd" alt="OpenCV"/>
-  </a>
-  <a href="https://github.com/SebaSalasLvd">
-    <img src="https://img.shields.io/badge/-Scikit_learn-f79c42?style=flat&logo=Scikit-learn&logoColor=white&link=https://github.com/SebaSalasLvd" alt="Scikit-learn"/>
-  </a>
-</div>
-
 <h3>DB</h3>
 <div>
   <a href="https://github.com/SebaSalasLvd">
